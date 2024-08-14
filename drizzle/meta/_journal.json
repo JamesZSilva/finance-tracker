@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1723594025871,
+      "tag": "0000_dear_bucky",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1723595382730,
+      "tag": "0001_typical_young_avengers",
+      "breakpoints": true
+    }
+  ]
+}
